@@ -375,7 +375,7 @@ public class DrawShapes extends JFrame implements ItemListener {
     myCanvas = new MyCanvas();
     myCanvas.readFromFile();
     myCanvas.setBackground(Color.GRAY);
-    setTitle("Al Sade & Ilan Oksenbrg");
+    setTitle("Ilan Oksenbrg");
     add(myCanvas, "Center");
   
     
